@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/99. Resources/StarterAssets/ThirdPersonController/Scenes/Playground.unity
     guid: e9017d5f96b9f09489b4b37e1d6eb914
+  - enabled: 1
+    path: Assets/1. Scene/Multi Miner.unity
+    guid: cb7c58b90cc674843a2d40920950dba7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
